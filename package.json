@@ -1,0 +1,24 @@
+{
+  "name": "web_dz1",
+  "version": "1.0.0",
+  "description": "dz1",
+  "author": "Marijo Kiš",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "bootstrap": "^4.4.1",
+    "bootstrap-vue": "^2.0.0",
+    "chart.js": "^2.9.3",
+    "hchs-vue-charts": "^1.2.8",
+    "nuxt": "^2.0.0",
+    "sweetalert2": "^9.10.2",
+    "vue2-google-maps": "^0.10.7"
+  },
+  "devDependencies": {}
+}
