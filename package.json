@@ -14,7 +14,7 @@
     "@nuxtjs/axios": "^5.3.6",
     "bootstrap": "^4.4.1",
     "bootstrap-vue": "^2.0.0",
-    "chart.js": "^2.9.3",
+    "chart.js": "^2.9.4",
     "hchs-vue-charts": "^1.2.8",
     "nuxt": "^2.0.0",
     "sweetalert2": "^9.10.2",
